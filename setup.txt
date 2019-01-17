@@ -1,0 +1,3 @@
+Setup.exe /SQLSVCPASSWORD="=62@rWgX4M5@LV9X" /AGTSVCPASSWORD="9c=jhkc*Gcq#+9$p" 
+/SAPWD="hB-TJ8!2K#U3K?ym" /ConfigurationFile=C:\Temp\ConfigurationFile.ini 
+/IAcceptSQLServerLicenseTerms
